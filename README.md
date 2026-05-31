@@ -36,10 +36,6 @@ To identify customer segments such as High-Value Customers, Frequent Buyers, and
 
 ---
 
-## 📷 Dashboard Preview
-(Add screenshots here)
-
----
 
 ## 📂 Files in Repository
 - Dataset (Excel file)
@@ -47,9 +43,3 @@ To identify customer segments such as High-Value Customers, Frequent Buyers, and
 - Dashboard Images
 - Project Documentation
 
----
-
-## 👤 Author
-Ruthu Shree  
-LinkedIn: https://www.linkedin.com/in/your-profile  
-GitHub: https://github.com/your-username
